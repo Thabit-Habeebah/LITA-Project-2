@@ -44,7 +44,7 @@ The source of the data is an assignment that was given to us by Incubator Hub to
      * For Data Cleaning : Power BI already fixed the data type for me, then I went on to insert a custom column to multiply the unit price with the quantity sold to get the revenue derived from each product each day,I had to duplicate the "OrderDate" column to split the date into years, months, and days.
        I moved to the canvas to build my dashboard.
        
-- Just before I built my dashboard I exported my data to SQL Server for data quering,where I was trying to derive the total revenue from each region and each products
+- Just before I built my dashboard I exported my data to SQL Server for data quering,where I was trying to derive the total revenue from each region and each products.
          
 - Microsoft Power BI
      * For Visualization
@@ -68,4 +68,4 @@ ORDER BY SUM(Sales) DESC
 
 ### CONCLUSION 
 This analysis shows that the business made the highest sales in February with a revenue of $546,300 in the month of Febraury.The highest sales was made from the East and the best performing product is "Shoe"
-The data is not comprehensive enough in that it doesn't reveal the profit made from the sales made in each region and on different products as a result of that we cannot make a decison on whether the business is performing well or not
+The data is not comprehensive enough in that it doesn't reveal the profit made from the sales made in each region and on different products as a result of that we cannot make a decison on whether the business is performing well or not.

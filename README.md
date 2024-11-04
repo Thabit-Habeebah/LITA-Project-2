@@ -27,8 +27,8 @@ The source of the data is an assignment that was given to us by Incubator Hub to
     * Product
     * Region
     * Quantity
-    * UnitPrice
-    * Sales
+    * UnitPrice($)
+    * Sales($)
 
 ### TOOLS USED
 - Microsoft Excel

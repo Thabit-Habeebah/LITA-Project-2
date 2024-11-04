@@ -65,3 +65,7 @@ ORDER BY SUM(Sales) DESC
 
 ### DATA VISUALIZATION 
 ![Sales Analysis (Real)_page-0001 (1)](https://github.com/user-attachments/assets/d9cc4551-7aa4-4dc8-b272-588fa35375c3)
+
+### CONCLUSION 
+This analysis shows that the business made the highest sales in February with a revenue of $546,300 in the month of Febraury.The highest sales was made from the East and the best performing product is "Shoe"
+The data is not comprehensive enough in that it doesn't reveal the profit made from the sales made in each region and on different products as a result of that we cannot make a decison on whether the business is performing well or not

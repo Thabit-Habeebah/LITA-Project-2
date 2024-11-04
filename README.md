@@ -24,3 +24,10 @@ The source of the data is an assignment that was given to us by Incubator Hub to
          
 - Microsoft Power BI
      * For Visualization
+ 
+## Exploratory Data Analysis
+- What is the total revenue derived from each products ?
+- What is the total quantity sold in each region ?
+- Sum of sales in each quarter of the year
+
+## 

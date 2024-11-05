@@ -2,19 +2,21 @@
 
 ### PROJECT TITLE: SALES ANALYSIS
 
-[PROJECT OVERVIEW](project-overview)
+[PROJECT OVERVIEW](#project-overview)
 
-[DATA SOURCE](data-source)
+[DATA SOURCE](#data-source)
 
-[TOOLS USED](tools-used)
+[TOOLS USED](#tools-used)
 
-[DATA PREPARATION AND CLEANING](data-preparation-and-cleaning)
+[DATA PREPARATION AND CLEANING](#data-preparation-and-cleaning)
 
-[EXPLORATORY DATA ANALYSIS](exploratory-data-analysis)
+[EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
 
-[DATA ANALYSIS](data-analysis)
+[DATA ANALYSIS](#data-analysis)
 
-[DATA VISUALIZATION](data-visualization)
+[DATA VISUALIZATION](#data-visualization)
+
+[CONCLUSION](#conclusion) 
 
 ### PROJECT OVERVIEW
 This project shows the performnace of each product sold. It takes into consideration the revenue derived from various regions on each product over the years breaking it down into quarters,it indicates how the quantity sold changes overtime and it also looked into the region and product with the highest revenue. 

@@ -22,7 +22,7 @@
 This project shows the performnace of each product sold. It takes into consideration the revenue derived from various regions on each product over the years breaking it down into quarters,it indicates how the quantity sold changes overtime and it also looked into the region and product with the highest revenue. 
 
 ### DATA SOURCE
-The source of the data is an assignment that was given to us by Incubator Hub to test our level of understanding based on the classes we did over the last 3 months.
+The source of the data is an assignment that was given to us by Incubator Hub to test our level of understanding based on the classes we had over the last 3 months.
 - Columns in the data
     * OrderID
     * Customer Id
